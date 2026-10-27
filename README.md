@@ -42,9 +42,12 @@ projeto-infraestrutura-contabilidade/
 │       ├── ping-visitantes.png
 │       ├── README.md
 ├── Testes/
+│   ├── README.md
 │   ├── dhcp.png
 │   ├── dns-intranet.png
 │   ├── conectividade-vlans.png
+│   ├── segmentacao-vlans-trunk.png
+│   ├── visitante-dhcp.png
 │   ├── isolamento-visitantes.png
 │   └── resultados.md
 ├── README.md
