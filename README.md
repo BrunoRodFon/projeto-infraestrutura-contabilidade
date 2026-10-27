@@ -36,12 +36,10 @@ projeto-infraestrutura-contabilidade/
 │   └── README.md
 ├── ACLs/
 │   ├── ACL-GERENCIAMENTO-RESTRITO/
-│   │   ├── beforeACL.mp4
-│   │   ├── afterACL.mp4
+│   │   ├── ping-gerenciamento.png
 │   │   ├── README.md
 │   └── ACL-VISITANTES-ISOLAMENTO/
-│       ├── beforeACL.mp4
-│       ├── afterACL.mp4
+│       ├── ping-visitantes.png
 │       ├── README.md
 ├── Testes/
 │   ├── dhcp.png
