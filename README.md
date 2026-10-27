@@ -38,13 +38,11 @@ projeto-infraestrutura-contabilidade/
 │   ├── ACL-GERENCIAMENTO-RESTRITO/
 │   │   ├── beforeACL.mp4
 │   │   ├── afterACL.mp4
-│   │   ├── Objetivo.md
-│   │   └── configuracao.txt
+│   │   ├── README.md
 │   └── ACL-VISITANTES-ISOLAMENTO/
 │       ├── beforeACL.mp4
 │       ├── afterACL.mp4
-│       ├── Objetivo.md
-│       └── configuracao.txt
+│       ├── README.md
 ├── Testes/
 │   ├── dhcp.png
 │   ├── dns-intranet.png
@@ -72,4 +70,3 @@ Os valores de materiais e serviços presentes na documentação são estimativas
 
 Projeto acadêmico desenvolvido como atividade de infraestrutura de TI.
 
-> Antes de publicar, revise este README e complemente a identificação do autor e as informações acadêmicas, caso deseje incluí-las.
