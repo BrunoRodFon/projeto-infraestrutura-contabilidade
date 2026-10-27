@@ -30,7 +30,7 @@ A lista acima descreve o escopo do projeto; consulte `Testes/resultados.md` para
 ## Arquivos relacionados
 
 - `../Documentacao/` — relatório, planta física e diagrama do rack.
-- `../ACLs/` — objetivos, configurações e vídeos das ACLs.
+- `../ACLs/` — objetivos, e resultados das ACLs.
 - `../Testes/` — evidências e resultados dos testes.
 
 ## Observação
